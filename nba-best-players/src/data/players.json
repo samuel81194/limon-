@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Michael Jordan",
+        "team": "Chicago Bulls",
+        "is_current": false,
+        "best_game": {
+            "date": "June 14, 1998",
+            "opponent": "Utah Jazz",
+            "points": 45,
+            "assists": 4,
+            "rebounds": 8,
+            "description": "Led the Bulls to their sixth championship with a game-winning shot."
+        }
+    },
+    {
+        "name": "LeBron James",
+        "team": "Miami Heat",
+        "is_current": true,
+        "best_game": {
+            "date": "June 6, 2012",
+            "opponent": "Oklahoma City Thunder",
+            "points": 44,
+            "assists": 5,
+            "rebounds": 5,
+            "description": "Dominated Game 5 of the NBA Finals, showcasing his all-around game."
+        }
+    },
+    {
+        "name": "Kobe Bryant",
+        "team": "Los Angeles Lakers",
+        "is_current": false,
+        "best_game": {
+            "date": "January 22, 2006",
+            "opponent": "Toronto Raptors",
+            "points": 81,
+            "assists": 2,
+            "rebounds": 3,
+            "description": "Scored the second-most points in a single game in NBA history."
+        }
+    },
+    {
+        "name": "Larry Bird",
+        "team": "Boston Celtics",
+        "is_current": false,
+        "best_game": {
+            "date": "May 22, 1986",
+            "opponent": "Atlanta Hawks",
+            "points": 29,
+            "assists": 12,
+            "rebounds": 11,
+            "description": "Recorded a triple-double in a crucial playoff game."
+        }
+    },
+    {
+        "name": "Magic Johnson",
+        "team": "Los Angeles Lakers",
+        "is_current": false,
+        "best_game": {
+            "date": "April 2, 1987",
+            "opponent": "Seattle SuperSonics",
+            "points": 29,
+            "assists": 10,
+            "rebounds": 8,
+            "description": "Led the Lakers to victory with a stellar performance."
+        }
+    }
+]

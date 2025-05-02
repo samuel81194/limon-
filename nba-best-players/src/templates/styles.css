@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.player-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.player-item {
+    background: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.player-name {
+    font-size: 1.5em;
+    color: #007bff;
+}
+
+.player-team {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.best-game {
+    margin-top: 10px;
+    font-style: italic;
+    color: #777;
+}
